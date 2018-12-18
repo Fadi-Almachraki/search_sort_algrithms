@@ -1,7 +1,5 @@
-"""Implement a function recursivly to get the desired
-Fibonacci sequence value.
-Your code should have the same input/output as the 
-iterative code in the instructions."""
+
+#Implement a function recursivly to get the desired Fibonacci sequence value
 
 def get_fib(position):
     if position == 0:
